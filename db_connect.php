@@ -1,11 +1,11 @@
 <?php
 $host = "localhost"; // Địa chỉ máy chủ
-$username = "root";
-$password = "";
+$username = "laiqing";
+$password = "11111111";
 $database = "qldsv";
 
 // Kết nối đến cơ sở dữ liệu
-$conn = new mysqli($host, $username, $password, $database,"3307");
+$conn = new mysqli($host, $username, $password, $database);
 
 // Kiểm tra kết nối
 if ($conn->connect_error) {
