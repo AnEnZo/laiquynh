@@ -45,7 +45,7 @@ if (!isset($_SESSION['role']) || $_SESSION['role'] != 'Admin') {
         <!-- Nội dung chính -->
         <section class="main-content">
             <h1>Chào mừng đến với Trang Quản trị Admin</h1>
-            <p>Vui lòng chọn một chức năng từ menu bên trái để bắt đầu quản lý.</p>
+            <p>Vui lòng chọn một chức năng từ menu bên trái để bắt đầu quản lý.abcxyz</p>
         </section>
     </div>
 </body>
